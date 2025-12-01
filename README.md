@@ -64,30 +64,30 @@ AdVariationBuilder/
 AdVariationBuilder/
 ├── frontend/
 │   ├── src/
-│   │   ├── components/       # React コンポーネント
+│   │   ├── components/                   # React コンポーネント
 │   │   │   ├── Header.tsx
 │   │   │   ├── Layout.tsx
 │   │   │   ├── UploadZone.tsx
 │   │   │   ├── ConfigPanel.tsx
 │   │   │   └── Modal.tsx
 │   │   ├── utils/
-│   │   │   └── downloadUtils.ts  # ダウンロード機能
-│   │   ├── db.ts             # IndexedDB 定義
-│   │   ├── App.tsx           # メインアプリ
+│   │   │   └── downloadUtils.ts          # ダウンロード機能
+│   │   ├── db.ts                         # IndexedDB 定義
+│   │   ├── App.tsx                       # メインアプリ
 │   │   └── main.tsx
 │   ├── package.json
-│   └── tailwind.config.js    # BAUM テーマ設定
+│   └── tailwind.config.js                # BAUM テーマ設定
 │
 ├── backend/
-│   ├── index.js              # Express サーバー
+│   ├── index.js                          # Express サーバー
 │   ├── package.json
-│   └── uploads/              # アップロードファイル保存
+│   └── uploads/                          # アップロードファイル保存
 │
 ├── ai-service/
-│   ├── main.py               # FastAPI サーバー
+│   ├── main.py                           # FastAPI サーバー
 │   └── requirements.txt
 │
-├── docs/                     # プロジェクト文書
+├── docs/                                 # プロジェクト文書
 │   ├── adVariationBuilder_prompt.md      # 要件定義(自作)
 │   ├── adVariationBuild_plan.md          # 技術仕様(Copilot)
 │   ├── adVariationBuild_project.md       # プロジェクト計画(Copilot)
@@ -96,9 +96,9 @@ AdVariationBuilder/
 │   ├── FEATURE_STATUS.md                 # 機能状態レポート
 │   └── IMPLEMENTATION_SUMMARY.md         # 実装サマリー
 │
-├── start_app.ps1             # アプリ起動スクリプト
-├── README.md                 # このファイル
-└── PROJECT_PROGRESS.md       # 進度管理
+├── start_app.ps1                         # アプリ起動スクリプト
+├── README.md                             # このファイル
+└── PROJECT_PROGRESS.md                   # 進度管理
 ```
 
 ---
