@@ -281,7 +281,7 @@ python main.py
 
 ### 開発チーム
 
-- **要件定義**: 自作
+- **要件定義**: ZoeHsieh714
 - **技術設計**: GitHub Copilot
 - **フロントエンド実装**: Google Antigravity
 - **AI モデル統合**: 今後実装予定
@@ -351,5 +351,5 @@ python main.py
 
 ---
 
-**Last Updated**: 2025-11-30
+**Last Updated**: 2025-12-03
 **Version**: 0.1.0 (Prototype)
