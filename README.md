@@ -253,7 +253,7 @@ python main.py
 
 | ファイル | 作成者 | 説明 |
 |---------|--------|------|
-| `adVariationBuilder_prompt.md` | 自作 | 要件定義・タスク仕様 |
+| `adVariationBuilder_prompt.md` | ZoeHsieh714 | 要件定義・タスク仕様 |
 | `adVariationBuild_plan.md` | Copilot | 技術要件定義書 |
 | `adVariationBuild_project.md` | Copilot | プロジェクト全体計画書 |
 | `AI_IMPLEMENTATION_GUIDE.md` | Antigravity | AI 統合完全ガイド |
